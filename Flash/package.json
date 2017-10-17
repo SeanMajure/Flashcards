@@ -1,0 +1,31 @@
+{
+  "name": "flashcard-generator-and-study",
+  "version": "1.0.0",
+  "description": "Node app to create basic or cloze-deletion flashcards and study with the flashcards",
+  "main": "flashCard.js",
+  "dependencies": {
+    "inquirer": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkruel8100/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard",
+    "study",
+    "generator",
+    "node",
+    "cloze-deletion",
+    "basic"
+  ],
+  "author": "Kimberly Kruel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkruel8100/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/kkruel8100/Flashcard-Generator#readme"
+}

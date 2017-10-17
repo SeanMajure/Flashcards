@@ -1,0 +1,8 @@
+[
+   
+    {
+        "fullText": "I love pie",
+        "cloze": "love",
+        "partial": "I ... pie"
+    }
+]
